@@ -1,0 +1,16 @@
+body {
+	background-color: rgb(132, 94, 229) !important;
+}
+
+.form button {
+	float: right;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+}
+
+.dugmad {
+	margin-top: 200px;
+}

@@ -1,0 +1,16 @@
+body {
+	background-color: rgb(132, 94, 229) !important;
+}
+
+h1 {
+	text-align: center;
+}
+
+div {
+	margin-top: 150px;
+}
+
+a {
+	color: red;
+}
+

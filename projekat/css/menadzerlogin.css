@@ -1,0 +1,74 @@
+body {
+	background-color: lightskyblue;
+}
+
+h1 {
+	text-align: center;
+	font-size: 4em;
+	font-weight: bold;
+}
+
+.cards {
+	margin-top: 250px;
+	margin-left: 5px;
+	display: grid;
+	grid-auto-columns: 250px;
+	grid-auto-flow: column;
+}
+
+.card {
+	margin-left: 10px;
+	border-radius: 3px;
+	background-color: lightgray;
+	display: grid;
+	height: max-content;
+}
+
+.card-title {
+	font-size: 140%;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+.card-activity {
+	margin-top: 5px;
+	color: white;
+	font-size: 120%;
+	background-color: lightseagreen;
+	padding: 5px;
+}
+
+.dugme {
+	border: none;
+	margin-top: 5px;
+	background: none;
+	color: white;
+	font-size: 110%;
+}
+
+.card-activity .dugmeDodaj {
+	border: none;
+	background: none;
+	font-size: 14px;
+	padding-left: 60px;
+	margin-left: 5px;
+}
+
+.btn {
+	margin-top: 5px;
+}
+
+.add-btn {
+	background: none;
+	border-color: white;
+	margin-left: 10px;
+}
+
+.ukloni {
+	margin-top: 15px;
+}
+
+.btn-wrap {
+	margin-top: 50px;
+}

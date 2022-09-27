@@ -1,0 +1,33 @@
+body {
+	background-image: url("../slike/pozadina.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Poppins', sans-serif;
+	scroll-behavior: smooth;
+}
+
+h1 {
+	text-align: center;
+	font-size: 5em;
+	padding-top: 50px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid black;
+}
+
+#slika1{
+	height: 70vh;
+	border: 2px solid black;
+	background-image: url("../slike/slika1.jpg");
+	background-size: cover;
+}
+
+h3 {
+	text-align: center;
+	font-size: 4em;
+}
+
+.section_about {
+	border-bottom: 2px solid black;
+	font-size: 22px;
+}
+
